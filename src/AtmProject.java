@@ -17,6 +17,6 @@ public class AtmProject {
         //nsb3
         System.out.println();
         //localde degisiklik yaptım.
-
+        //remote'da degisiklik yaptim.
     }
 }
